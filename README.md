@@ -4,8 +4,6 @@
 
 Excited to have been part of the CODSOFT Data Science Internship, where my passion for data and curiosity for innovation came to life. Throughout this program, I received an official offer letter, completed hands-on tasks, and successfully completed the internship. This experience honed my skills in analyzing complex datasets, deriving actionable insights, and solving real-world problems. Collaborating with like-minded individuals and contributing to impactful projects has been an incredible journey, fueling my growth as a Data Scientist. Ready to apply these learnings and create amazing solutions in the data-driven world!
 
-My CV - [pdf](https://example.com)
-
 ## Table of Contents
 
 - [About](#about)
@@ -15,7 +13,7 @@ My CV - [pdf](https://example.com)
     - [Titanic Survival Prediction](#titanic-survival-prediction)
     - [Iris Flower Classification](#iris-flower-classification)
     - [Credit Card Fraud Detection](#credit-card-fraud-detection)
-- [Internship Offer Letter / Certificates](#InternshipOfferLetter/Certificates)
+- [Internship Offer Letter / Certificates](#internship-offer-letter-/-certificates)
 
 # Portfolio Projects
 In this section, I showcase data analytics projects, providing a brief overview of the technology stack utilized to address various cases.
@@ -62,9 +60,9 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 **Results**: The Random Forest model achieved an accuracy of 100%, precision of 0.99, recall of 0.78, and an F1 score of 0.87. The confusion matrix indicated a very low number of false positives, with a higher number of false negatives, highlighting a potential area for improvement in recall for fraudulent transactions.
 
-## Internship Offer Letter / Certificates
+### Internship Offer Letter / Certificates
 
-I obtained the following form CodSoft:
+I obtained the following from CodSoft:
 
-- **Internship Offer Letter** (August 2023) - CofSoft
+- **Internship Offer Letter** (August 2023) - CodSoft
 - **Certificate of Completion** (Sep 2023) - CodSoft

@@ -50,7 +50,7 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 **Code**: [Credit Card Fraud Detection.ipynb](https://github.com/lorraine-mwoyounotsva/CODSOFT/blob/main/Credir_Card_Fraud_DETECTION.ipynb)
 
-**Goal**: Build a machine learning model to detect fraudulent credit card transactions.
+**Goal**: Build a machine-learning model to detect fraudulent credit card transactions.
 
 **Description**: The dataset contained transaction records with 31 features, including anonymized transaction details. The key steps involved loading the dataset, checking for missing values, performing exploratory data analysis (EDA), and handling the class imbalance between fraudulent and non-fraudulent transactions. Techniques such as oversampling the minority class and feature scaling were applied. A Random Forest classifier was trained on the data, and performance was evaluated using accuracy, precision, recall, F1-score, and confusion matrix.
 
@@ -60,9 +60,9 @@ In this section, I showcase data analytics projects, providing a brief overview 
 
 **Results**: The Random Forest model achieved an accuracy of 100%, precision of 0.99, recall of 0.78, and an F1 score of 0.87. The confusion matrix indicated a very low number of false positives, with a higher number of false negatives, highlighting a potential area for improvement in recall for fraudulent transactions.
 
-### Internship Offer Letter / Certificates
+### Internship Offer Letter / Certificate
 
 I obtained the following from CodSoft:
 
-- **Internship Offer Letter** (August 2023) - CodSoft
-- **Certificate of Completion** (Sep 2023) - CodSoft
+[**CodSoft Internship Offer Letter**](https://github.com/lorraine-mwoyounotsva/CODSOFT_DataScience_Internship/blob/main/LorraineMwoyounotsva-InternshipOfferLetter.pdf) - (August 2023)
+[**CodSoft Internship Certificate of Completion**](https://github.com/lorraine-mwoyounotsva/CODSOFT_DataScience_Internship/blob/main/LorraineMwoyounotsva-Certificate.pdf) - (Sep 2023)

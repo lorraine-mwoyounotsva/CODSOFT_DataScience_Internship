@@ -65,4 +65,5 @@ In this section, I showcase data analytics projects, providing a brief overview 
 I obtained the following from CodSoft:
 
 [**CodSoft Internship Offer Letter**](https://github.com/lorraine-mwoyounotsva/CODSOFT_DataScience_Internship/blob/main/LorraineMwoyounotsva-InternshipOfferLetter.pdf) - (August 2023)
+
 [**CodSoft Internship Certificate of Completion**](https://github.com/lorraine-mwoyounotsva/CODSOFT_DataScience_Internship/blob/main/LorraineMwoyounotsva-Certificate.pdf) - (Sep 2023)

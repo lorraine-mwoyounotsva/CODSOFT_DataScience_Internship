@@ -4,6 +4,8 @@
 
 Excited to have been part of the CODSOFT Data Science Internship, where my passion for data and curiosity for innovation came to life. Throughout this program, I received an official offer letter, completed hands-on tasks, and successfully completed the internship. This experience honed my skills in analyzing complex datasets, deriving actionable insights, and solving real-world problems. Collaborating with like-minded individuals and contributing to impactful projects has been an incredible journey, fueling my growth as a Data Scientist. Ready to apply these learnings and create amazing solutions in the data-driven world!
 
+My CV - [pdf](https://github.com/lorraine-mwoyounotsva/Data-Engineering-Portfolio/blob/main/Certificates/CV%20-%20Lorraine%20Mwoyounotsva.pdf)
+
 ## Table of Contents
 
 - [About](#about)
